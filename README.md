@@ -1,3 +1,3 @@
 # SIFT based Panorama
 
-Read Report.pdf for details
+See the **Report.pdf** for details.
